@@ -1,8 +1,3 @@
 wavefront:
-  url: https://demo.wavefront.com
-
-management:
-  metrics:
-    export:
-      wavefront:
-        apiToken: 00000000-0000-0000-0000-000000000000
+  application:
+    name: wavefrontbootiful
